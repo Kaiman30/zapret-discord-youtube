@@ -1,0 +1,3 @@
+mc.aormio.ru
+ms.aormio.ru
+msk.aormio.ru
